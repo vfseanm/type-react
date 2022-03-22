@@ -1,2 +1,1 @@
-# type-react
-Created with CodeSandbox
+# Typesafe-Actions Reference Project
